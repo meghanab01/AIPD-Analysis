@@ -1,0 +1,385 @@
+year,dominant_subfield,subfield_label,patents
+2018,evo,Evolutionary Computation,2796
+2018,hardware,AI Hardware,23079
+2018,kr,Knowledge Representation,9900
+2018,ml,Machine Learning,4015
+2018,nlp,Natural Language Processing,12102
+2018,planning,Planning & Reasoning,35864
+2018,speech,Speech Recognition,4470
+2018,vision,Computer Vision,30806
+2019,evo,Evolutionary Computation,3308
+2019,hardware,AI Hardware,26551
+2019,kr,Knowledge Representation,11109
+2019,ml,Machine Learning,6555
+2019,nlp,Natural Language Processing,14041
+2019,planning,Planning & Reasoning,41792
+2019,speech,Speech Recognition,5114
+2019,vision,Computer Vision,36556
+2020,evo,Evolutionary Computation,3657
+2020,hardware,AI Hardware,27976
+2020,kr,Knowledge Representation,11520
+2020,ml,Machine Learning,9215
+2020,nlp,Natural Language Processing,15184
+2020,planning,Planning & Reasoning,45463
+2020,speech,Speech Recognition,5339
+2020,vision,Computer Vision,40217
+2021,evo,Evolutionary Computation,3529
+2021,hardware,AI Hardware,27272
+2021,kr,Knowledge Representation,11352
+2021,ml,Machine Learning,11555
+2021,nlp,Natural Language Processing,15470
+2021,planning,Planning & Reasoning,45499
+2021,speech,Speech Recognition,5000
+2021,vision,Computer Vision,40985
+2022,evo,Evolutionary Computation,3795
+2022,hardware,AI Hardware,27840
+2022,kr,Knowledge Representation,11092
+2022,ml,Machine Learning,13997
+2022,nlp,Natural Language Processing,15020
+2022,planning,Planning & Reasoning,46118
+2022,speech,Speech Recognition,5092
+2022,vision,Computer Vision,42025
+2023,evo,Evolutionary Computation,3940
+2023,hardware,AI Hardware,28003
+2023,kr,Knowledge Representation,11030
+2023,ml,Machine Learning,15836
+2023,nlp,Natural Language Processing,15776
+2023,planning,Planning & Reasoning,47438
+2023,speech,Speech Recognition,5129
+2023,vision,Computer Vision,41984
+2001,evo,Evolutionary Computation,259
+2001,hardware,AI Hardware,3717
+2001,kr,Knowledge Representation,721
+2001,ml,Machine Learning,334
+2001,nlp,Natural Language Processing,1300
+2001,planning,Planning & Reasoning,3591
+2001,speech,Speech Recognition,928
+2001,vision,Computer Vision,4253
+2002,evo,Evolutionary Computation,478
+2002,hardware,AI Hardware,6918
+2002,kr,Knowledge Representation,2073
+2002,ml,Machine Learning,749
+2002,nlp,Natural Language Processing,3146
+2002,planning,Planning & Reasoning,8976
+2002,speech,Speech Recognition,1761
+2002,vision,Computer Vision,7438
+2003,evo,Evolutionary Computation,740
+2003,hardware,AI Hardware,8541
+2003,kr,Knowledge Representation,2411
+2003,ml,Machine Learning,960
+2003,nlp,Natural Language Processing,3254
+2003,planning,Planning & Reasoning,10380
+2003,speech,Speech Recognition,1848
+2003,vision,Computer Vision,8847
+2004,evo,Evolutionary Computation,692
+2004,hardware,AI Hardware,9806
+2004,kr,Knowledge Representation,2581
+2004,ml,Machine Learning,993
+2004,nlp,Natural Language Processing,3569
+2004,planning,Planning & Reasoning,11083
+2004,speech,Speech Recognition,2036
+2004,vision,Computer Vision,9965
+2005,evo,Evolutionary Computation,906
+2005,hardware,AI Hardware,10152
+2005,kr,Knowledge Representation,3141
+2005,ml,Machine Learning,1075
+2005,nlp,Natural Language Processing,4169
+2005,planning,Planning & Reasoning,12224
+2005,speech,Speech Recognition,2010
+2005,vision,Computer Vision,10880
+2006,evo,Evolutionary Computation,988
+2006,hardware,AI Hardware,11874
+2006,kr,Knowledge Representation,3666
+2006,ml,Machine Learning,1179
+2006,nlp,Natural Language Processing,4970
+2006,planning,Planning & Reasoning,14117
+2006,speech,Speech Recognition,2412
+2006,vision,Computer Vision,12765
+2007,evo,Evolutionary Computation,1075
+2007,hardware,AI Hardware,11639
+2007,kr,Knowledge Representation,4205
+2007,ml,Machine Learning,1264
+2007,nlp,Natural Language Processing,5674
+2007,planning,Planning & Reasoning,14671
+2007,speech,Speech Recognition,2374
+2007,vision,Computer Vision,12821
+2008,evo,Evolutionary Computation,1223
+2008,hardware,AI Hardware,13161
+2008,kr,Knowledge Representation,4952
+2008,ml,Machine Learning,1552
+2008,nlp,Natural Language Processing,6374
+2008,planning,Planning & Reasoning,16987
+2008,speech,Speech Recognition,2495
+2008,vision,Computer Vision,14461
+2009,evo,Evolutionary Computation,1323
+2009,hardware,AI Hardware,13805
+2009,kr,Knowledge Representation,5305
+2009,ml,Machine Learning,1558
+2009,nlp,Natural Language Processing,6865
+2009,planning,Planning & Reasoning,17787
+2009,speech,Speech Recognition,2433
+2009,vision,Computer Vision,15354
+2010,evo,Evolutionary Computation,1563
+2010,hardware,AI Hardware,14835
+2010,kr,Knowledge Representation,5747
+2010,ml,Machine Learning,1724
+2010,nlp,Natural Language Processing,7287
+2010,planning,Planning & Reasoning,19790
+2010,speech,Speech Recognition,2536
+2010,vision,Computer Vision,17426
+2011,evo,Evolutionary Computation,1632
+2011,hardware,AI Hardware,14791
+2011,kr,Knowledge Representation,5769
+2011,ml,Machine Learning,1729
+2011,nlp,Natural Language Processing,7642
+2011,planning,Planning & Reasoning,20146
+2011,speech,Speech Recognition,2622
+2011,vision,Computer Vision,17754
+2012,evo,Evolutionary Computation,1920
+2012,hardware,AI Hardware,16939
+2012,kr,Knowledge Representation,7137
+2012,ml,Machine Learning,1988
+2012,nlp,Natural Language Processing,9156
+2012,planning,Planning & Reasoning,23843
+2012,speech,Speech Recognition,3172
+2012,vision,Computer Vision,21846
+2013,evo,Evolutionary Computation,2279
+2013,hardware,AI Hardware,19052
+2013,kr,Knowledge Representation,8216
+2013,ml,Machine Learning,2251
+2013,nlp,Natural Language Processing,10470
+2013,planning,Planning & Reasoning,27745
+2013,speech,Speech Recognition,3512
+2013,vision,Computer Vision,23873
+2014,evo,Evolutionary Computation,2539
+2014,hardware,AI Hardware,21911
+2014,kr,Knowledge Representation,9906
+2014,ml,Machine Learning,2631
+2014,nlp,Natural Language Processing,12224
+2014,planning,Planning & Reasoning,32247
+2014,speech,Speech Recognition,3892
+2014,vision,Computer Vision,26117
+2015,evo,Evolutionary Computation,2529
+2015,hardware,AI Hardware,21532
+2015,kr,Knowledge Representation,9555
+2015,ml,Machine Learning,2554
+2015,nlp,Natural Language Processing,12154
+2015,planning,Planning & Reasoning,30066
+2015,speech,Speech Recognition,3922
+2015,vision,Computer Vision,27371
+2016,evo,Evolutionary Computation,2534
+2016,hardware,AI Hardware,22649
+2016,kr,Knowledge Representation,9926
+2016,ml,Machine Learning,2932
+2016,nlp,Natural Language Processing,12516
+2016,planning,Planning & Reasoning,31542
+2016,speech,Speech Recognition,4142
+2016,vision,Computer Vision,28085
+2017,evo,Evolutionary Computation,2592
+2017,hardware,AI Hardware,23337
+2017,kr,Knowledge Representation,10200
+2017,ml,Machine Learning,3284
+2017,nlp,Natural Language Processing,12503
+2017,planning,Planning & Reasoning,34144
+2017,speech,Speech Recognition,4297
+2017,vision,Computer Vision,29467
+1976,evo,Evolutionary Computation,9
+1976,hardware,AI Hardware,288
+1976,kr,Knowledge Representation,22
+1976,ml,Machine Learning,14
+1976,nlp,Natural Language Processing,60
+1976,planning,Planning & Reasoning,242
+1976,speech,Speech Recognition,52
+1976,vision,Computer Vision,236
+1977,evo,Evolutionary Computation,7
+1977,hardware,AI Hardware,264
+1977,kr,Knowledge Representation,16
+1977,ml,Machine Learning,17
+1977,nlp,Natural Language Processing,50
+1977,planning,Planning & Reasoning,259
+1977,speech,Speech Recognition,84
+1977,vision,Computer Vision,204
+1978,evo,Evolutionary Computation,13
+1978,hardware,AI Hardware,264
+1978,kr,Knowledge Representation,20
+1978,ml,Machine Learning,10
+1978,nlp,Natural Language Processing,47
+1978,planning,Planning & Reasoning,229
+1978,speech,Speech Recognition,75
+1978,vision,Computer Vision,219
+1979,evo,Evolutionary Computation,5
+1979,hardware,AI Hardware,226
+1979,kr,Knowledge Representation,14
+1979,ml,Machine Learning,7
+1979,nlp,Natural Language Processing,35
+1979,planning,Planning & Reasoning,199
+1979,speech,Speech Recognition,53
+1979,vision,Computer Vision,192
+1980,evo,Evolutionary Computation,11
+1980,hardware,AI Hardware,236
+1980,kr,Knowledge Representation,16
+1980,ml,Machine Learning,9
+1980,nlp,Natural Language Processing,54
+1980,planning,Planning & Reasoning,256
+1980,speech,Speech Recognition,72
+1980,vision,Computer Vision,260
+1981,planning,Planning & Reasoning,289
+1981,evo,Evolutionary Computation,12
+1981,hardware,AI Hardware,242
+1981,kr,Knowledge Representation,15
+1981,ml,Machine Learning,12
+1981,nlp,Natural Language Processing,48
+1981,speech,Speech Recognition,70
+1981,vision,Computer Vision,239
+1982,evo,Evolutionary Computation,7
+1982,hardware,AI Hardware,238
+1982,kr,Knowledge Representation,16
+1982,ml,Machine Learning,13
+1982,nlp,Natural Language Processing,66
+1982,planning,Planning & Reasoning,251
+1982,speech,Speech Recognition,77
+1982,vision,Computer Vision,226
+1983,evo,Evolutionary Computation,9
+1983,hardware,AI Hardware,218
+1983,kr,Knowledge Representation,18
+1983,ml,Machine Learning,12
+1983,nlp,Natural Language Processing,75
+1983,planning,Planning & Reasoning,241
+1983,speech,Speech Recognition,89
+1983,vision,Computer Vision,226
+1984,evo,Evolutionary Computation,10
+1984,hardware,AI Hardware,298
+1984,kr,Knowledge Representation,13
+1984,ml,Machine Learning,14
+1984,nlp,Natural Language Processing,92
+1984,planning,Planning & Reasoning,326
+1984,speech,Speech Recognition,130
+1984,vision,Computer Vision,306
+1985,evo,Evolutionary Computation,22
+1985,hardware,AI Hardware,310
+1985,kr,Knowledge Representation,23
+1985,ml,Machine Learning,19
+1985,nlp,Natural Language Processing,79
+1985,planning,Planning & Reasoning,378
+1985,speech,Speech Recognition,108
+1985,vision,Computer Vision,388
+1986,evo,Evolutionary Computation,17
+1986,hardware,AI Hardware,340
+1986,kr,Knowledge Representation,28
+1986,ml,Machine Learning,29
+1986,nlp,Natural Language Processing,88
+1986,planning,Planning & Reasoning,349
+1986,speech,Speech Recognition,118
+1986,vision,Computer Vision,447
+1987,evo,Evolutionary Computation,19
+1987,hardware,AI Hardware,443
+1987,kr,Knowledge Representation,34
+1987,ml,Machine Learning,29
+1987,nlp,Natural Language Processing,122
+1987,planning,Planning & Reasoning,542
+1987,speech,Speech Recognition,137
+1987,vision,Computer Vision,688
+1988,evo,Evolutionary Computation,18
+1988,hardware,AI Hardware,489
+1988,kr,Knowledge Representation,35
+1988,ml,Machine Learning,34
+1988,nlp,Natural Language Processing,129
+1988,planning,Planning & Reasoning,425
+1988,speech,Speech Recognition,145
+1988,vision,Computer Vision,654
+1989,evo,Evolutionary Computation,40
+1989,hardware,AI Hardware,699
+1989,kr,Knowledge Representation,42
+1989,ml,Machine Learning,59
+1989,nlp,Natural Language Processing,197
+1989,planning,Planning & Reasoning,599
+1989,speech,Speech Recognition,204
+1989,vision,Computer Vision,873
+1990,evo,Evolutionary Computation,34
+1990,hardware,AI Hardware,631
+1990,kr,Knowledge Representation,35
+1990,ml,Machine Learning,75
+1990,nlp,Natural Language Processing,169
+1990,planning,Planning & Reasoning,596
+1990,speech,Speech Recognition,193
+1990,vision,Computer Vision,919
+1991,evo,Evolutionary Computation,29
+1991,hardware,AI Hardware,663
+1991,kr,Knowledge Representation,60
+1991,ml,Machine Learning,85
+1991,nlp,Natural Language Processing,187
+1991,planning,Planning & Reasoning,695
+1991,speech,Speech Recognition,182
+1991,vision,Computer Vision,1053
+1992,evo,Evolutionary Computation,33
+1992,hardware,AI Hardware,751
+1992,kr,Knowledge Representation,66
+1992,ml,Machine Learning,153
+1992,nlp,Natural Language Processing,199
+1992,planning,Planning & Reasoning,698
+1992,speech,Speech Recognition,190
+1992,vision,Computer Vision,1111
+1993,evo,Evolutionary Computation,49
+1993,hardware,AI Hardware,871
+1993,kr,Knowledge Representation,78
+1993,ml,Machine Learning,189
+1993,nlp,Natural Language Processing,251
+1993,planning,Planning & Reasoning,829
+1993,speech,Speech Recognition,223
+1993,vision,Computer Vision,1213
+1994,evo,Evolutionary Computation,53
+1994,hardware,AI Hardware,1066
+1994,kr,Knowledge Representation,109
+1994,ml,Machine Learning,204
+1994,nlp,Natural Language Processing,257
+1994,planning,Planning & Reasoning,926
+1994,speech,Speech Recognition,239
+1994,vision,Computer Vision,1398
+1995,evo,Evolutionary Computation,50
+1995,hardware,AI Hardware,1224
+1995,kr,Knowledge Representation,122
+1995,ml,Machine Learning,225
+1995,nlp,Natural Language Processing,281
+1995,planning,Planning & Reasoning,929
+1995,speech,Speech Recognition,256
+1995,vision,Computer Vision,1477
+1996,evo,Evolutionary Computation,69
+1996,hardware,AI Hardware,1509
+1996,kr,Knowledge Representation,177
+1996,ml,Machine Learning,237
+1996,nlp,Natural Language Processing,360
+1996,planning,Planning & Reasoning,1200
+1996,speech,Speech Recognition,341
+1996,vision,Computer Vision,1781
+1997,evo,Evolutionary Computation,80
+1997,hardware,AI Hardware,1524
+1997,kr,Knowledge Representation,198
+1997,ml,Machine Learning,273
+1997,nlp,Natural Language Processing,400
+1997,planning,Planning & Reasoning,1175
+1997,speech,Speech Recognition,430
+1997,vision,Computer Vision,1757
+1998,evo,Evolutionary Computation,127
+1998,hardware,AI Hardware,2612
+1998,kr,Knowledge Representation,373
+1998,ml,Machine Learning,334
+1998,nlp,Natural Language Processing,776
+1998,planning,Planning & Reasoning,1882
+1998,speech,Speech Recognition,678
+1998,vision,Computer Vision,2703
+1999,evo,Evolutionary Computation,149
+1999,hardware,AI Hardware,2678
+1999,kr,Knowledge Representation,406
+1999,ml,Machine Learning,263
+1999,nlp,Natural Language Processing,826
+1999,planning,Planning & Reasoning,2022
+1999,speech,Speech Recognition,638
+1999,vision,Computer Vision,2770
+2000,evo,Evolutionary Computation,137
+2000,hardware,AI Hardware,2592
+2000,kr,Knowledge Representation,460
+2000,ml,Machine Learning,268
+2000,nlp,Natural Language Processing,775
+2000,planning,Planning & Reasoning,2152
+2000,speech,Speech Recognition,623
+2000,vision,Computer Vision,2752
