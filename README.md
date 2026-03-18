@@ -1,3 +1,5 @@
+![Dashboard Preview](page1.jpeg)
+
 AI Patent Landscape Analysis\
 Tools: Python · Power BI · Pandas · Matplotlib\
 Data: USPTO Artificial Intelligence Patent Dataset (AIPD) · 15.4M records · 1976–2023
