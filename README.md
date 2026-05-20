@@ -8,6 +8,9 @@ Overview\
 This project analyses over 15 million patent records from the USPTO to map the growth and composition of AI innovation globally across 8 technology subfields — Machine Learning, Computer Vision, Natural Language Processing, Speech Recognition, Planning & Reasoning, Evolutionary Computation, Knowledge Representation, and AI Hardware.\
 The analysis was built to handle a dataset too large for standard in-memory processing, using a chunked Python pipeline to clean, engineer features, and aggregate the data before visualising it in a 3-page interactive Power BI dashboard.
 
+why does this analysis matter? \
+AI patent filings have grown at 7.3% annually since 2010, with Planning & Reasoning dominating at nearly a quarter of all classified patents. This analysis provides a baseline for understanding which technology subfields are attracting the most innovation investment — useful for competitive intelligence, R&D prioritization, and IP strategy. The 2.3x growth since 2010 and the 2023 peak suggest the field is still in active expansion, not consolidation.
+
 Key Findings
 
 15,437,542 total patents in the dataset\
